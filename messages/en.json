@@ -1,0 +1,419 @@
+{
+  "Header": {
+    "home": "Home",
+    "login": "Login & Register",
+    "bonus": "Bonuses",
+    "casino": "Casino",
+    "sports": "Sports Betting",
+    "blog": "Blog"
+  },
+  "Footer": {
+    "description": "Your trusted source for the latest 1win information, bonus offers, access addresses, and betting tips.",
+    "quickLinks": "Quick Links",
+    "about": "About Us",
+    "contact": "Contact",
+    "blog": "Blog",
+    "login": "Login & Register",
+    "bonus": "Bonuses",
+    "responsible": "Responsible Gaming",
+    "responsibleText": "We encourage you to play responsibly. Be mindful of gambling addiction and only play with amounts you can afford to lose.",
+    "copyright": "All rights reserved. Official partner of 1win."
+  },
+  "HomePage": {
+    "meta": {
+      "title": "1win Turkey - Best Online Betting & Casino Platform | HESAPLAHADİ",
+      "description": "1win Turkey - online betting and casino games. High odds, generous bonuses, and a wide selection of games. Join 1win now!"
+    },
+    "hero": {
+      "title": "Enjoy Betting & Casino with 1win",
+      "subtitle": "Discover Turkey's most popular online betting and casino platform with high odds, generous bonuses, and thousands of games.",
+      "cta": "Join 1win Now",
+      "trustBadge": "Official Partner | Trusted Platform"
+    },
+    "features": {
+      "title": "Why Choose 1win?",
+      "items": [
+        {
+          "title": "High Odds",
+          "desc": "Maximize your winnings with the highest odds in the market for sports betting."
+        },
+        {
+          "title": "Welcome Bonus",
+          "desc": "Start with an advantage - get up to %500 welcome bonus for new members."
+        },
+        {
+          "title": "Wide Game Selection",
+          "desc": "Thousands of slot games, live casino, poker and more on a single platform."
+        },
+        {
+          "title": "Fast Payments",
+          "desc": "Withdraw your winnings quickly. Bank transfer, crypto and more options available."
+        },
+        {
+          "title": "Mobile Friendly",
+          "desc": "Bet anytime, anywhere with optimized mobile apps for iOS and Android."
+        },
+        {
+          "title": "24/7 Support",
+          "desc": "Our professional support team is available 24 hours a day, 7 days a week."
+        }
+      ]
+    },
+    "howto": {
+      "title": "How to Get Started with 1win?",
+      "step1": {
+        "title": "1. Create an Account",
+        "desc": "Visit 1win's official website and fill out the registration form. It only takes a few minutes."
+      },
+      "step2": {
+        "title": "2. Make Your First Deposit",
+        "desc": "Deposit quickly and securely using bank transfer, e-wallets, or cryptocurrency."
+      },
+      "step3": {
+        "title": "3. Claim Your Bonus",
+        "desc": "Get up to %500 welcome bonus on your first deposit and start using it immediately."
+      },
+      "step4": {
+        "title": "4. Start Betting",
+        "desc": "Explore sports betting, casino, live casino and many more games to start winning."
+      },
+      "cta": "Register for Free Now"
+    },
+    "games": {
+      "title": "Popular Game Categories",
+      "sports": "Sports Betting",
+      "sportsDesc": "Bet on football, basketball, tennis and hundreds of sports with high odds.",
+      "casino": "Live Casino",
+      "casinoDesc": "Play live roulette, blackjack, baccarat and poker with real dealers.",
+      "slots": "Slot Games",
+      "slotsDesc": "Win big prizes with thousands of slot machines and jackpot games."
+    },
+    "ctaSection": {
+      "title": "Ready to Join 1win?",
+      "desc": "The best odds, widest game selection, and most generous bonuses await you. Sign up for free now!",
+      "button": "Join Now"
+    }
+  },
+  "LoginPage": {
+    "meta": {
+      "title": "1win Login & Registration - 2026 Access Guide | HESAPLAHADİ",
+      "description": "Step-by-step 1win login and registration guide. Sign up for free, claim your welcome bonus, and start betting."
+    },
+    "hero": {
+      "title": "1win Login & Registration Guide",
+      "subtitle": "Registering and logging into 1win has never been easier. Follow our step-by-step guide to get started."
+    },
+    "howToRegister": {
+      "title": "1win Registration Guide",
+      "steps": [
+        "Visit the official 1win website.",
+        "Click the 'Register' button in the top right corner.",
+        "Fill out the registration form with your email or phone number.",
+        "Verify your account by clicking the link sent to your email.",
+        "Make your first deposit and claim your welcome bonus."
+      ]
+    },
+    "loginGuide": {
+      "title": "1win Login Guide",
+      "steps": [
+        "Visit the current 1win access address.",
+        "Enter your username and password.",
+        "Click the 'Login' button.",
+        "Access your account and start betting.",
+        "If you cannot log in, try a different access address or check your DNS settings."
+      ]
+    },
+    "tips": {
+      "title": "Login Tips",
+      "desc": "If you are having trouble logging into 1win, try the following methods:",
+      "items": [
+        "Use the current access address if the site is blocked.",
+        "Check your internet connection.",
+        "Clear your browser cache.",
+        "Try a different browser or device.",
+        "Try connecting from a different location using a VPN.",
+        "Try logging in using the mobile app."
+      ],
+      "cta": "Login to 1win"
+    },
+    "info": {
+      "title": "About 1win",
+      "desc": "1win is a trusted online betting and casino platform with international licenses. Operating under a Curacao license, the platform serves millions of users worldwide. Highly popular in Turkey, 1win stands out with its high odds, wide game selection, and fast payment methods."
+    }
+  },
+  "BonusPage": {
+    "meta": {
+      "title": "1win Welcome Bonus - Up to %500 Bonus Offers | HESAPLAHADİ",
+      "description": "Get up to %500 welcome bonus on your first deposit at 1win. Current promotions, free spins, and more on this page."
+    },
+    "hero": {
+      "title": "1win Bonuses & Promotions",
+      "subtitle": "Discover 1win's generous bonus world. Welcome bonus, free spins, cashback and many more opportunities await you."
+    },
+    "welcome": {
+      "title": "Welcome Bonus - Up to %500",
+      "desc": "Specially prepared for new 1win users, the welcome bonus package offers up to %500 bonus on your first four deposits. With this bonus, start with an advantage in both sports betting and casino games.",
+      "details": {
+        "bonus1": "1st Deposit: %200 bonus",
+        "bonus2": "2nd Deposit: %150 bonus",
+        "bonus3": "3rd Deposit: %100 bonus",
+        "bonus4": "4th Deposit: %50 bonus",
+        "max": "Maximum bonus: Up to $10,000",
+        "wagering": "Wagering requirement: x5 bonus"
+      },
+      "cta": "Claim My Bonus"
+    },
+    "promos": {
+      "title": "Other Promotions",
+      "items": [
+        {
+          "title": "Weekly Cashback",
+          "desc": "Get up to 10% cashback on your weekly losses and recover what you lost."
+        },
+        {
+          "title": "Free Spins",
+          "desc": "Don't miss weekly free spin opportunities on selected slot games."
+        },
+        {
+          "title": "Refer a Friend",
+          "desc": "Invite your friends to 1win and earn a bonus for each friend you refer."
+        },
+        {
+          "title": "Tournaments",
+          "desc": "Participate in casino and sports betting tournaments for a chance to win big prizes."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Bonus Terms & Conditions",
+      "desc": "All bonuses are subject to specific terms and conditions. Please read the conditions carefully before claiming a bonus. Each bonus has different wagering requirements, validity periods, and usage conditions. Remember to follow responsible gaming principles."
+    }
+  },
+  "CasinoPage": {
+    "meta": {
+      "title": "1win Casino - Best Online Casino Games 2026 | HESAPLAHADİ",
+      "description": "Experience the ultimate entertainment with 1win casino games. Slots, live casino, roulette, blackjack, poker and thousands of game options."
+    },
+    "hero": {
+      "title": "1win Casino Games",
+      "subtitle": "The world's most popular casino games at 1win. Thousands of options from slot machines to live dealer games await you."
+    },
+    "categories": {
+      "title": "Game Categories",
+      "slots": {
+        "title": "Slot Games",
+        "desc": "Thousands of slot machines, video slots, and jackpot games with big winning opportunities. Top providers: NetEnt, Microgaming, Play'n Go, Pragmatic Play."
+      },
+      "live": {
+        "title": "Live Casino",
+        "desc": "Play live roulette, blackjack, baccarat and poker with real dealers. Experience real casino with Evolution Gaming and other leading providers."
+      },
+      "table": {
+        "title": "Table Games",
+        "desc": "Blackjack, roulette, poker, baccarat and other table games for the classic casino experience."
+      },
+      "instant": {
+        "title": "Instant Games",
+        "desc": "Popular instant win games like Aviator, JetX, Crash and more in the quick games category."
+      }
+    },
+    "providers": {
+      "title": "Game Providers",
+      "desc": "1win works with world-leading game providers: NetEnt, Microgaming, Play'n Go, Pragmatic Play, Evolution Gaming, Ezugi, Betsoft, Yggdrasil and many more quality providers."
+    },
+    "cta": {
+      "title": "Start Playing Casino Games",
+      "desc": "Choose from thousands of casino games and win big prizes.",
+      "button": "Join 1win Casino"
+    }
+  },
+  "SportsPage": {
+    "meta": {
+      "title": "1win Sports Betting - Live Betting with High Odds | HESAPLAHADİ",
+      "description": "Bet on football, basketball, tennis and hundreds of sports with high odds at 1win. Live betting and pre-match options available."
+    },
+    "hero": {
+      "title": "1win Sports Betting",
+      "subtitle": "The highest odds and widest market selection in sports betting at 1win. Bet on every sport from football to basketball, tennis to esports."
+    },
+    "sports": {
+      "title": "Sports You Can Bet On",
+      "football": {
+        "title": "Football",
+        "desc": "High odds on Super Lig, Premier League, La Liga, Serie A, Bundesliga and hundreds of leagues and tournaments."
+      },
+      "basketball": {
+        "title": "Basketball",
+        "desc": "Match result, handicap, total points and many more betting options on NBA, EuroLeague, BSL and other leagues."
+      },
+      "tennis": {
+        "title": "Tennis",
+        "desc": "Live and pre-match betting opportunities on Grand Slam, ATP, WTA tournaments and more."
+      },
+      "esports": {
+        "title": "Esports",
+        "desc": "Bet on CS:GO, Dota 2, League of Legends, Valorant and other popular esports tournaments."
+      }
+    },
+    "features": {
+      "title": "1win Sports Betting Features",
+      "items": [
+        "Pre-match and live betting options",
+        "High odds and competitive markets",
+        "Fast bet confirmation system",
+        "Detailed statistics and live score tracking",
+        "Live streaming support for select events",
+        "Fast withdrawal and deposit processing"
+      ]
+    },
+    "cta": {
+      "title": "Start Betting",
+      "desc": "Start winning with the highest odds and widest market selection in sports betting.",
+      "button": "Bet on 1win"
+    }
+  },
+  "BlogIndex": {
+    "meta": {
+      "title": "1win Blog - Betting Tips and Strategies | HESAPLAHADİ",
+      "description": "1win blog page. Visit our blog for betting tips, winning tactics, casino strategies, and more."
+    },
+    "hero": {
+      "title": "1win Blog",
+      "subtitle": "The latest tips, strategies and guides on the world of betting."
+    },
+    "posts": {
+      "title": "Blog Posts",
+      "post1": {
+        "title": "Betting Tips and Strategies",
+        "desc": "Golden tips from professional bettors. Everything about bankroll management, odds analysis, and profitable betting strategies.",
+        "link": "Read More"
+      },
+      "post2": {
+        "title": "Winning Tactics and Methods",
+        "desc": "Tactics to increase your chances of winning in casino games and sports betting. Expert opinions and practical tips.",
+        "link": "Read More"
+      }
+    }
+  },
+  "BlogTips": {
+    "meta": {
+      "title": "Betting Tips and Strategies - 1win Guide | HESAPLAHADİ",
+      "description": "Professional betting tips and strategies. Everything you need to know from bankroll management to odds analysis for profitable betting."
+    },
+    "hero": {
+      "title": "Betting Tips and Strategies",
+      "subtitle": "All the strategic information you need to succeed in the world of betting"
+    },
+    "sections": [
+      {
+        "title": "Bankroll Management",
+        "body": "The most important rule of being a successful bettor is bankroll management. Set a budget you can afford to lose and never exceed it. It's recommended to keep your bets between 1-5% of your total bankroll. This way, you won't lose your entire budget during a bad streak. Also, avoid making emotional decisions and chasing losses. Professional bettors manage their bankrolls with discipline to be profitable in the long run."
+      },
+      {
+        "title": "Odds Analysis",
+        "body": "Analyzing betting odds is fundamental to being a profitable bettor. Odds reflect the probability of an event occurring. To find value bets, compare your own calculated probabilities with the odds offered by the bookmaker. If your calculated probability is higher than what the odds suggest, it's a value bet. 1win's high odds make it easier to find value bets. Regular odds tracking and comparative analysis will increase your long-term profitability."
+      },
+      {
+        "title": "Live Betting Strategies",
+        "body": "Live betting allows you to bet while a match is in progress and take advantage of real-time opportunities. As a live betting strategy, read the flow of the match well and avoid impulsive decisions. In football matches, watching the first half and betting in the second half allows you to make more informed decisions. Follow in-match statistics (possession, shots, corners) to find advantageous bets. 1win's live betting platform allows you to evaluate real-time opportunities with fast odds updates and a wide range of market options."
+      },
+      {
+        "title": "Specialization and Research",
+        "body": "Instead of specializing in every sport, focusing on one or two sports can be more profitable. Research teams, players, league dynamics, and statistics in detail in your specialized sport. Factors such as injuries, suspensions, weather conditions, and team dynamics can affect betting outcomes. Regular research and analysis help you make more informed betting decisions. With 1win's wide selection of leagues and tournaments, you can find the best opportunities in your areas of expertise."
+      },
+      {
+        "title": "Emotional Control",
+        "body": "Keeping your emotions under control while betting is very important. Trying to recover losses by placing larger bets after losing money (tilting) is one of the most common mistakes. Also, try to remain objective when betting on your favorite team. Think as an analyst, not as a fan. Plan your bets in advance and avoid making unplanned moves. A disciplined approach is the key to long-term success."
+      }
+    ],
+    "conclusion": {
+      "title": "Conclusion",
+      "body": "Success in the betting world requires strategy, discipline, and continuous learning. By applying these tips and using 1win's advantageous odds, you can make your betting experience more profitable. Remember, betting is a game of chance and there is always a risk of losing. Bet responsibly and enjoy the fun.",
+      "cta": "Start Betting on 1win"
+    }
+  },
+  "BlogTactics": {
+    "meta": {
+      "title": "Winning Tactics - Casino and Betting Strategies | HESAPLAHADİ",
+      "description": "Winning tactics for casino and betting games. Strategies to increase your chances in roulette, blackjack, slots, and poker."
+    },
+    "hero": {
+      "title": "Winning Tactics and Methods",
+      "subtitle": "Proven tactics and strategies to increase your chances of winning"
+    },
+    "sections": [
+      {
+        "title": "Roulette Strategies",
+        "body": "Although roulette is purely a game of chance, some strategies can help you manage your budget more efficiently. The Martingale system is one of the most well-known strategies: by doubling your bet after each loss, you aim to recover all losses when you win. However, keep in mind that this strategy is risky and requires a large budget. More balanced strategies such as D'Alembert and Fibonacci also exist. You can test your strategies at 1win live roulette tables starting with low limits."
+      },
+      {
+        "title": "Blackjack Tips",
+        "body": "Blackjack is one of the casino games with the lowest house advantage when played with the right strategy. Basic blackjack strategy helps you make the best decision based on your hand and the dealer's upcard. Learning when to hit, stand, double down, or split can significantly increase your chances of winning. Advanced techniques like card counting also exist, but they are generally not effective in online games. By applying basic strategy at 1win blackjack tables, you can reduce the house advantage to below 1%."
+      },
+      {
+        "title": "Slot Game Tactics",
+        "body": "Slot games operate using RNG (Random Number Generator) software that produces completely random results. However, you can apply some tactics to increase your chances: Choose games with high RTP (Return to Player) rates (96% and above). Set bet amounts appropriate for your budget and learn about the bonus features and volatility levels of games. Low volatility games offer frequent but small wins, while high volatility games offer large but rare wins. At 1win, you can choose from hundreds of slot games based on their RTP and volatility information."
+      },
+      {
+        "title": "Poker Strategies",
+        "body": "Poker is the only casino game that combines skill and chance. To become a successful poker player, you need to develop fundamental skills such as hand selection, position awareness, bet sizing, and reading opponents. Texas Hold'em is the most popular poker variation and its strategy is more complex than other variations. You can gain experience and develop your strategies by starting at low-limit tables in 1win poker rooms."
+      },
+      {
+        "title": "Bankroll Management",
+        "body": "As with all gambling games, bankroll management is the key to success. Set a budget you can afford to lose and use a certain percentage of this budget in each gaming session. Set aside some of your profits when you win, and avoid chasing losses when you lose. Disciplined bankroll management helps you maintain your gaming enjoyment and avoid significant losses in the long run."
+      }
+    ],
+    "conclusion": {
+      "title": "Important Reminder",
+      "body": "No strategy or tactic guarantees 100% winning in casino games. All games have a certain house advantage. These tactics are prepared to enhance your entertainment and help you use your budget more efficiently. Adopt responsible gaming principles and only play with amounts you can afford to lose.",
+      "cta": "Start Playing on 1win"
+    }
+  },
+  "AboutPage": {
+    "meta": {
+      "title": "About Us - HESAPLAHADİ | Official 1win Partner",
+      "description": "HESAPLAHADİ is the official partner of 1win. Our site provides current information, bonus offers, and guides about 1win."
+    },
+    "hero": {
+      "title": "About Us",
+      "subtitle": "HESAPLAHADİ - Official 1win Partner"
+    },
+    "content": {
+      "title": "Who We Are?",
+      "body": "HESAPLAHADİ is an information and guide platform serving as the official partner of 1win. Our goal is to provide our users with the most current, accurate, and comprehensive information about 1win. On our site, you can find many useful contents such as 1win access addresses, bonus opportunities, game guides, and betting tips. We aim to help our users make informed decisions with content prepared from an impartial and objective perspective."
+    },
+    "values": [
+      {
+        "title": "Reliability",
+        "desc": "We meticulously verify the accuracy and currency of all information we provide."
+      },
+      {
+        "title": "Transparency",
+        "desc": "As an official partner of 1win, we clearly state all our connections and relationships."
+      },
+      {
+        "title": "User Focus",
+        "desc": "We shape our content according to our users' needs and provide the most useful information."
+      }
+    ]
+  },
+  "ContactPage": {
+    "meta": {
+      "title": "Contact - HESAPLAHADİ | 1win Partner Contact",
+      "description": "Contact HESAPLAHADİ. Reach out to us for suggestions, opinions, and questions."
+    },
+    "hero": {
+      "title": "Contact",
+      "subtitle": "Contact us for your questions, suggestions, or opinions"
+    },
+    "info": {
+      "title": "Get in Touch",
+      "desc": "You can send your questions, suggestions, and opinions to us via the email address below. We will get back to you as soon as possible.",
+      "email": "info@hesaplahadi.com"
+    },
+    "disclaimer": {
+      "title": "Important Note",
+      "desc": "As HESAPLAHADİ, we do not provide direct customer service or technical support. For technical issues with your 1win account, deposit/withdrawal transactions, or game-related questions, please contact 1win customer service directly."
+    }
+  }
+}

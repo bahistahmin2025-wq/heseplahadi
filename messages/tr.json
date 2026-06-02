@@ -1,0 +1,419 @@
+{
+  "Header": {
+    "home": "Ana Sayfa",
+    "login": "Giriş & Kayıt",
+    "bonus": "Bonuslar",
+    "casino": "Casino",
+    "sports": "Spor Bahisleri",
+    "blog": "Blog"
+  },
+  "Footer": {
+    "description": "1win hakkında en güncel bilgiler, bonus fırsatları, giriş adresleri ve bahis ipuçları için doğru adres.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "blog": "Blog",
+    "login": "Giriş & Kayıt",
+    "bonus": "Bonuslar",
+    "responsible": "Sorumlu Oyun",
+    "responsibleText": "Bahis ve casino oyunlarını sorumlu bir şekilde oynamanızı öneririz. Oyun bağımlılığı konusunda dikkatli olun ve kaybetmeyi göze alabileceğiniz miktarlarla oynayın.",
+    "copyright": "Tüm hakları saklıdır. 1win resmi partneridir."
+  },
+  "HomePage": {
+    "meta": {
+      "title": "1win Türkiye - En İyi Online Bahis ve Casino Platformu | HESAPLAHADİ",
+      "description": "1win Türkiye'de online bahis ve casino oyunları. Yüksek oranlar, cömert bonuslar ve geniş oyun seçeneğiyle 1win'e hemen katıl!"
+    },
+    "hero": {
+      "title": "1win ile Bahis ve Casinonun Tadını Çıkarın",
+      "subtitle": "Türkiye'nin en popüler online bahis ve casino platformunda yüksek oranlar, cömert bonuslar ve binlerce oyun sizi bekliyor.",
+      "cta": "Hemen 1win'e Katıl",
+      "trustBadge": "Resmi Partner | Güvenilir Platform"
+    },
+    "features": {
+      "title": "Neden 1win?",
+      "items": [
+        {
+          "title": "Yüksek Oranlar",
+          "desc": "Spor bahislerinde piyasanın en yüksek oranları ile kazancınızı maksimize edin."
+        },
+        {
+          "title": "Hoşgeldin Bonusu",
+          "desc": "Yeni üyelere özel %500'e varan hoşgeldin bonusu ile avantajlı başlayın."
+        },
+        {
+          "title": "Geniş Oyun Seçeneği",
+          "desc": "Binlerce slot oyunu, canlı casino, poker ve daha fazlası tek platformda."
+        },
+        {
+          "title": "Hızlı Ödemeler",
+          "desc": "Kazancınızı en hızlı şekilde çekin. Papara, Havale, kripto para ve daha fazlası."
+        },
+        {
+          "title": "Mobil Uyumlu",
+          "desc": "iOS ve Android için optimize edilmiş mobil uygulama ile her an her yerde bahis yapın."
+        },
+        {
+          "title": "7/24 Destek",
+          "desc": "Profesyonel müşteri hizmetleri ekibimiz 7 gün 24 saat yanınızda."
+        }
+      ]
+    },
+    "howto": {
+      "title": "1win'e Nasıl Başlarsınız?",
+      "step1": {
+        "title": "1. Hesap Oluşturun",
+        "desc": "1win'in resmi sitesine gidin ve kayıt formunu doldurun. Sadece birkaç dakika sürer."
+      },
+      "step2": {
+        "title": "2. İlk Paranızı Yatırın",
+        "desc": "Papara, banka havalesi veya kripto para ile hızlı ve güvenli para yatırma işlemi yapın."
+      },
+      "step3": {
+        "title": "3. Bonusunuzu Alın",
+        "desc": "İlk yatırımınızda %500'e varan hoşgeldin bonusunuzu hemen kullanmaya başlayın."
+      },
+      "step4": {
+        "title": "4. Bahis Yapmaya Başlayın",
+        "desc": "Spor bahisleri, casino, canlı casino ve daha birçok oyunu keşfedin ve kazanmaya başlayın."
+      },
+      "cta": "Hemen Ücretsiz Kaydol"
+    },
+    "games": {
+      "title": "Popüler Oyun Kategorileri",
+      "sports": "Spor Bahisleri",
+      "sportsDesc": "Futbol, basketbol, tenis ve daha yüzlerce spor dalında yüksek oranlarla bahis yapın.",
+      "casino": "Canlı Casino",
+      "casinoDesc": "Gerçek krupiyelerle canlı rulet, blackjack, bakara ve poker oynayın.",
+      "slots": "Slot Oyunları",
+      "slotsDesc": "Binlerce slot makinesi ve jackpot oyunu ile büyük ödülleri kazanma şansı yakalayın."
+    },
+    "ctaSection": {
+      "title": "1win'e Katılmaya Hazır mısınız?",
+      "desc": "En iyi oranlar, en geniş oyun seçeneği ve en cömert bonuslar sizi bekliyor. Hemen ücretsiz kaydolun!",
+      "button": "Şimdi Katıl"
+    }
+  },
+  "LoginPage": {
+    "meta": {
+      "title": "1win Giriş & Kayıt - 2026 Güncel Giriş Adresi | HESAPLAHADİ",
+      "description": "1win giriş ve kayıt işlemleri adım adım anlatım. 1win'e ücretsiz kaydolun, hoşgeldin bonusunuzu alın ve bahis yapmaya başlayın."
+    },
+    "hero": {
+      "title": "1win Giriş ve Kayıt Rehberi",
+      "subtitle": "1win'e kayıt olmak ve giriş yapmak hiç bu kadar kolay olmamıştı. Adım adım rehberimizle hemen başlayın."
+    },
+    "howToRegister": {
+      "title": "1win Kayıt Rehberi",
+      "steps": [
+        "1win resmi internet sitesine gidin.",
+        "Sağ üst köşedeki \"Kayıt Ol\" butonuna tıklayın.",
+        "E-posta adresiniz veya telefon numaranız ile kayıt formunu doldurun.",
+        "Hesabınızı doğrulamak için gelen e-postadaki linke tıklayın.",
+        "İlk para yatırma işleminizi yapın ve hoşgeldin bonusunuzu alın."
+      ]
+    },
+    "loginGuide": {
+      "title": "1win Giriş Yapma",
+      "steps": [
+        "1win'in güncel giriş adresini ziyaret edin.",
+        "Kullanıcı adı ve şifrenizi girin.",
+        "\"Giriş Yap\" butonuna tıklayın.",
+        "Hesabınıza başarıyla giriş yapın ve bahis yapmaya başlayın.",
+        "Eğer giriş yapamıyorsanız, farklı bir giriş adresini deneyin veya DNS ayarlarınızı kontrol edin."
+      ]
+    },
+    "tips": {
+      "title": "Giriş İpuçları",
+      "desc": "Eğer 1win'e giriş yaparken sorun yaşıyorsanız, aşağıdaki yöntemleri deneyin:",
+      "items": [
+        "Siteye erişim engeli varsa güncel giriş adresini kullanın.",
+        "İnternet bağlantınızı kontrol edin.",
+        "Tarayıcınızın önbelleğini temizleyin.",
+        "Farklı bir tarayıcı veya cihaz deneyin.",
+        "VPN kullanarak farklı bir konumdan bağlanmayı deneyin.",
+        "Mobil uygulamayı kullanarak giriş yapmayı deneyin."
+      ],
+      "cta": "1win'e Giriş Yap"
+    },
+    "info": {
+      "title": "1win Hakkında",
+      "desc": "1win, uluslararası lisanslara sahip güvenilir bir online bahis ve casino platformudur. Curacao lisansı ile faaliyet gösteren platform, dünya genelinde milyonlarca kullanıcıya hizmet vermektedir. Türkiye'den de yoğun ilgi gören 1win, yüksek oranları, geniş oyun seçenekleri ve hızlı ödeme yöntemleri ile öne çıkmaktadır."
+    }
+  },
+  "BonusPage": {
+    "meta": {
+      "title": "1win Hoşgeldin Bonusu - %500'e Varan Bonus Fırsatları | HESAPLAHADİ",
+      "description": "1win hoşgeldin bonusu ile ilk yatırımınızda %500'e varan bonus kazanın. Güncel promosyonlar, bedava dönüşler ve daha fazlası bu sayfada."
+    },
+    "hero": {
+      "title": "1win Bonus ve Promosyonlar",
+      "subtitle": "1win'in cömert bonus dünyasını keşfedin. Hoşgeldin bonusu, bedava dönüşler, kayıp bonusu ve daha birçok fırsat sizi bekliyor."
+    },
+    "welcome": {
+      "title": "Hoşgeldin Bonusu - %500'e Varan Fırsat",
+      "desc": "1win'e yeni katılan kullanıcılar için özel olarak hazırlanan hoşgeldin bonusu paketi ile ilk dört yatırımınızda %500'e varan bonus kazanın. Bu bonus ile hem spor bahislerinde hem de casino oyunlarında avantajlı başlayın.",
+      "details": {
+        "bonus1": "1. Yatırım: %200 bonus",
+        "bonus2": "2. Yatırım: %150 bonus",
+        "bonus3": "3. Yatırım: %100 bonus",
+        "bonus4": "4. Yatırım: %50 bonus",
+        "max": "Maksimum bonus: 240.000 TL'ye kadar",
+        "wagering": "Çevrim şartı: Bonus x5"
+      },
+      "cta": "Bonusumu Al"
+    },
+    "promos": {
+      "title": "Diğer Promosyonlar",
+      "items": [
+        {
+          "title": "Haftalık Kayıp Bonusu",
+          "desc": "Haftalık kayıplarınızın %10'una varan kayıp bonusu ile kaybettiklerinizi geri kazanın."
+        },
+        {
+          "title": "Bedava Dönüşler",
+          "desc": "Belirli slot oyunlarında haftalık bedava dönüş fırsatlarını kaçırmayın."
+        },
+        {
+          "title": "Arkadaşını Davet Et",
+          "desc": "Arkadaşlarınızı 1win'e davet edin ve her davet ettiğiniz arkadaşınız için bonus kazanın."
+        },
+        {
+          "title": "Turnuvalar",
+          "desc": "Düzenlenen casino ve spor bahis turnuvalarına katılarak büyük ödüller kazanma şansı yakalayın."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Bonus Şartları ve Koşulları",
+      "desc": "Tüm bonuslar belirli şart ve koşullara tabidir. Bonus almadan önce şartları dikkatlice okuyun. Her bonusun çevrim şartı, süresi ve kullanım koşulları farklılık gösterebilir. Sorumlu oyun ilkelerini unutmayın."
+    }
+  },
+  "CasinoPage": {
+    "meta": {
+      "title": "1win Casino - En İyi Online Casino Oyunları 2026 | HESAPLAHADİ",
+      "description": "1win casino oyunları ile eğlenceyi doruklarda yaşayın. Slot, canlı casino, rulet, blackjack, poker ve binlerce oyun seçeneği."
+    },
+    "hero": {
+      "title": "1win Casino Oyunları",
+      "subtitle": "Dünyanın en popüler casino oyunları 1win'de. Slot makinelerinden canlı krupiyeli oyunlara kadar binlerce seçenek sizi bekliyor."
+    },
+    "categories": {
+      "title": "Oyun Kategorileri",
+      "slots": {
+        "title": "Slot Oyunları",
+        "desc": "Binlerce slot makinesi, video slot ve jackpot oyunu ile büyük kazanç fırsatları. Popüler sağlayıcılar: NetEnt, Microgaming, Play'n Go, Pragmatic Play."
+      },
+      "live": {
+        "title": "Canlı Casino",
+        "desc": "Gerçek krupiyeler eşliğinde canlı rulet, blackjack, bakara ve poker oynayın. Evolution Gaming ve diğer lider sağlayıcılarla gerçek casino deneyimi."
+      },
+      "table": {
+        "title": "Masa Oyunları",
+        "desc": "Klasik casino deneyimi için blackjack, rulet, poker, bakara ve diğer masa oyunları."
+      },
+      "instant": {
+        "title": "Anlık Oyunlar",
+        "desc": "Hızlı oyunlar kategorisinde Aviator, JetX, Crash ve benzeri popüler anlık kazanç oyunları."
+      }
+    },
+    "providers": {
+      "title": "Oyun Sağlayıcıları",
+      "desc": "1win, dünyanın önde gelen oyun sağlayıcıları ile çalışmaktadır: NetEnt, Microgaming, Play'n Go, Pragmatic Play, Evolution Gaming, Ezugi, Betsoft, Yggdrasil ve daha birçok kaliteli sağlayıcı."
+    },
+    "cta": {
+      "title": "Casino Oyunlarına Başlayın",
+      "desc": "Binlerce casino oyunu arasından seçiminizi yapın ve büyük kazançlar elde edin.",
+      "button": "1win Casino'ya Katıl"
+    }
+  },
+  "SportsPage": {
+    "meta": {
+      "title": "1win Spor Bahisleri - Yüksek Oranlı Canlı Bahis | HESAPLAHADİ",
+      "description": "1win spor bahisleri ile futbol, basketbol, tenis ve daha yüzlerce spor dalında yüksek oranlarla bahis yapın. Canlı bahis ve maç öncesi seçenekleri."
+    },
+    "hero": {
+      "title": "1win Spor Bahisleri",
+      "subtitle": "Spor bahislerinde en yüksek oranlar ve en geniş pazar seçenekleri 1win'de. Futboldan basketbola, tenisten e-spora kadar her spor dalında bahis yapın."
+    },
+    "sports": {
+      "title": "Bahis Yapabileceğiniz Spor Dalları",
+      "football": {
+        "title": "Futbol",
+        "desc": "Süper Lig, Premier League, La Liga, Serie A, Bundesliga ve daha yüzlerce lig ve turnuvada yüksek oranlı bahisler."
+      },
+      "basketball": {
+        "title": "Basketbol",
+        "desc": "NBA, EuroLeague, BSL ve diğer liglerde maç sonucu, handikap, toplam sayı ve daha birçok bahis seçeneği."
+      },
+      "tennis": {
+        "title": "Tenis",
+        "desc": "Grand Slam, ATP, WTA turnuvaları ve daha fazlasında canlı ve maç öncesi bahis fırsatları."
+      },
+      "esports": {
+        "title": "E-Spor",
+        "desc": "CS:GO, Dota 2, League of Legends, Valorant ve diğer popüler e-spor turnuvalarında bahis yapın."
+      }
+    },
+    "features": {
+      "title": "1win Spor Bahisleri Özellikleri",
+      "items": [
+        "Maç öncesi ve canlı bahis seçenekleri",
+        "Yüksek oranlar ve rekabetçi piyasalar",
+        "Hızlı bahis onay sistemi",
+        "Detaylı istatistikler ve canlı skor takibi",
+        "Maç içi canlı yayın desteği",
+        "Para çekme ve para yatırma işlemlerinde hız"
+      ]
+    },
+    "cta": {
+      "title": "Bahis Yapmaya Başlayın",
+      "desc": "En yüksek oranlar ve en geniş pazar seçenekleri ile spor bahislerinde kazanmaya başlayın.",
+      "button": "1win'de Bahis Yap"
+    }
+  },
+  "BlogIndex": {
+    "meta": {
+      "title": "1win Blog - Bahis İpuçları ve Stratejileri | HESAPLAHADİ",
+      "description": "1win blog sayfası. Bahis ipuçları, kazanma taktikleri, casino stratejileri ve daha fazlası için blogumuzu ziyaret edin."
+    },
+    "hero": {
+      "title": "1win Blog",
+      "subtitle": "Bahis dünyasına dair en güncel ipuçları, stratejiler ve rehberler."
+    },
+    "posts": {
+      "title": "Blog Yazıları",
+      "post1": {
+        "title": "Bahis İpuçları ve Stratejiler",
+        "desc": "Profesyonel bahisçilerden altın değerinde ipuçları. Bütçe yönetimi, oran analizi ve kazançlı bahis stratejileri hakkında her şey.",
+        "link": "Devamını Oku"
+      },
+      "post2": {
+        "title": "Kazanma Taktikleri ve Yöntemleri",
+        "desc": "Casino oyunlarında ve spor bahislerinde kazanma şansınızı artıracak taktikler. Uzman görüşleri ve pratik öneriler.",
+        "link": "Devamını Oku"
+      }
+    }
+  },
+  "BlogTips": {
+    "meta": {
+      "title": "Bahis İpuçları ve Stratejiler - 1win Rehber | HESAPLAHADİ",
+      "description": "Profesyonel bahis ipuçları ve stratejileri. Bütçe yönetiminden oran analizine, kazançlı bahis için bilmeniz gereken her şey."
+    },
+    "hero": {
+      "title": "Bahis İpuçları ve Stratejiler",
+      "subtitle": "Bahis dünyasında başarılı olmak için ihtiyacınız olan tüm stratejik bilgiler"
+    },
+    "sections": [
+      {
+        "title": "Bütçe Yönetimi",
+        "body": "Başarılı bir bahisçi olmanın en önemli kuralı bütçe yönetimidir. Kaybetmeyi göze alabileceğiniz bir bütçe belirleyin ve bu bütçeyi asla aşmayın. Bahislerinizi toplam bütçenizin %1-5'i arasında tutmanız önerilir. Bu sayede kötü bir seride tüm bütçenizi kaybetmezsiniz. Ayrıca duygusal kararlar vermekten kaçının ve kaybettiğiniz parayı geri kazanma hırsıyla hareket etmeyin. Profesyonel bahisçiler, uzun vadede karlı olmak için disiplinli bir şekilde bütçelerini yönetirler."
+      },
+      {
+        "title": "Oran Analizi",
+        "body": "Bahis oranlarını analiz etmek, karlı bir bahisçi olmanın temelidir. Oranlar, bir olayın gerçekleşme olasılığını yansıtır. Değerli bahisleri (value bets) bulmak için kendi hesapladığınız olasılıklarla bahis şirketinin sunduğu oranları karşılaştırın. Eğer sizin hesapladığınız olasılık, oranın işaret ettiği olasılıktan yüksekse, bu değerli bir bahistir. 1win'in yüksek oranları sayesinde değerli bahisleri bulma şansınız daha yüksektir. Düzenli olarak oran takibi yapmak ve karşılaştırmalı analiz, uzun vadede karlılığınızı artıracaktır."
+      },
+      {
+        "title": "Canlı Bahis Stratejileri",
+        "body": "Canlı bahis, maç devam ederken bahis yapma imkanı sunar ve anlık fırsatları değerlendirmenizi sağlar. Canlı bahis stratejisi olarak, maçın gidişatını iyi okuyun ve ani kararlar vermekten kaçının. Özellikle futbol maçlarında ilk yarıyı izleyip ikinci yarıda bahis yapmak daha bilinçli kararlar almanızı sağlar. Maç içi istatistikleri (topa sahip olma, şut sayısı, kornerler) takip ederek avantajlı bahisler bulabilirsiniz. 1win'in canlı bahis platformu, hızlı oran güncellemeleri ve geniş pazar seçenekleri ile anlık fırsatları değerlendirmenize olanak tanır."
+      },
+      {
+        "title": "Uzmanlaşma ve Araştırma",
+        "body": "Her spor dalında uzmanlaşmak yerine, bir veya iki spor dalına odaklanmak daha karlı olabilir. Uzmanlaştığınız spor dalında takımları, oyuncuları, lig dinamiklerini ve istatistikleri detaylıca araştırın. Sakatlıklar, cezalar, hava durumu, takım içi dinamikler gibi faktörler bahis sonuçlarını etkileyebilir. Düzenli araştırma ve analiz yapmak, daha bilinçli bahis kararları almanızı sağlar. 1win'de geniş lig ve turnuva seçeneği sayesinde uzmanlaştığınız alanlarda en iyi fırsatları bulabilirsiniz."
+      },
+      {
+        "title": "Duygusal Kontrol",
+        "body": "Bahis yaparken duygularınızı kontrol altında tutmak çok önemlidir. Kaybettikten sonra daha büyük bahisler yaparak kaybı telafi etmeye çalışmak (tilt) en yaygın hatalardan biridir. Ayrıca tuttuğunuz takıma bahis yaparken objektif olmaya özen gösterin. Taraftar olarak değil, bir analist gibi düşünün. Bahislerinizi önceden planlayın ve plan dışı hamleler yapmaktan kaçının. Disiplinli bir yaklaşım, uzun vadede başarılı olmanın anahtarıdır."
+      }
+    ],
+    "conclusion": {
+      "title": "Sonuç",
+      "body": "Bahis dünyasında başarılı olmak için strateji, disiplin ve sürekli öğrenme gereklidir. Bu ipuçlarını uygulayarak ve 1win'in sunduğu avantajlı oranları kullanarak bahis deneyiminizi daha kazançlı hale getirebilirsiniz. Unutmayın, bahis bir şans oyunudur ve kaybetme riski her zaman vardır. Sorumlu bir şekilde bahis yapın ve eğlencenin tadını çıkarın.",
+      "cta": "1win'de Bahis Yapmaya Başla"
+    }
+  },
+  "BlogTactics": {
+    "meta": {
+      "title": "Kazanma Taktikleri - Casino ve Bahis Taktikleri | HESAPLAHADİ",
+      "description": "Casino ve bahis oyunlarında kazanma taktikleri. Rulet, blackjack, slot ve poker gibi oyunlarda kazanma şansınızı artıracak stratejiler."
+    },
+    "hero": {
+      "title": "Kazanma Taktikleri ve Yöntemleri",
+      "subtitle": "Oyunlarda kazanma şansınızı artıracak kanıtlanmış taktikler ve stratejiler"
+    },
+    "sections": [
+      {
+        "title": "Rulet Stratejileri",
+        "body": "Rulet, tamamen şansa dayalı bir oyun olmasına rağmen, bazı stratejiler bütçenizi daha verimli yönetmenize yardımcı olabilir. Martingale sistemi en bilinen stratejilerden biridir: kaybettiğinizde bahsinizi ikiye katlayarak kazandığınızda tüm kaybettiklerinizi geri almayı hedefler. Ancak bu stratejinin riskli olduğunu ve yüksek bütçe gerektirdiğini unutmayın. D'Alembert ve Fibonacci gibi daha dengeli stratejiler de mevcuttur. 1win canlı rulet masalarında düşük limitlerle başlayarak stratejilerinizi test edebilirsiniz."
+      },
+      {
+        "title": "Blackjack İpuçları",
+        "body": "Blackjack, doğru strateji ile kasa avantajının en düşük olduğu casino oyunlarından biridir. Temel blackjack stratejisi, elinize ve krupiyenin açık kartına göre en doğru hamleyi yapmanızı sağlar. Ne zaman kart almanız (hit), ne zaman durmanız (stand), ne zaman ikiye katlamanız (double) veya bölmeniz (split) gerektiğini öğrenmek kazanma şansınızı önemli ölçüde artırır. Kart sayma (card counting) gibi ileri düzey teknikler de mevcuttur, ancak bunlar çevrimiçi oyunlarda genellikle etkili değildir. 1win'in blackjack masalarında temel stratejiyi uygulayarak kasa avantajını %1'in altına düşürebilirsiniz."
+      },
+      {
+        "title": "Slot Oyunları Taktikleri",
+        "body": "Slot oyunları tamamen rastgele sonuçlar üreten RNG (Random Number Generator) yazılımı ile çalışır. Ancak kazanma şansınızı artırmak için bazı taktikler uygulayabilirsiniz: Yüksek RTP (Return to Player) oranına sahip oyunları tercih edin (%96 ve üzeri). Bütçenize uygun bahis miktarları belirleyin ve oyunların bonus özelliklerini ve volatilite seviyelerini öğrenin. Düşük volatilite oyunlar sık ama küçük kazançlar, yüksek volatilite oyunlar ise büyük ama nadir kazançlar sunar. 1win'de yüzlerce slot oyunu arasından RTP ve volatilite bilgilerine göre seçim yapabilirsiniz."
+      },
+      {
+        "title": "Poker Stratejileri",
+        "body": "Poker, beceri ve şansın birleştiği tek casino oyunudur. Başarılı bir poker oyuncusu olmak için el seçimi, pozisyon bilinci, bahis boyutlandırması ve rakip okuma gibi temel becerileri geliştirmeniz gerekir. Texas Hold'em en popüler poker varyasyonudur ve stratejisi diğer varyasyonlara göre daha karmaşıktır. 1win poker odalarında düşük limitli masalarda başlayarak deneyim kazanabilir ve stratejilerinizi geliştirebilirsiniz."
+      },
+      {
+        "title": "Banka Hesabı Yönetimi",
+        "body": "Tüm kumar oyunlarında olduğu gibi, banka hesabı (banka rulosu) yönetimi başarının anahtarıdır. Kaybetmeyi göze alabileceğiniz bir bütçe belirleyin ve her oyun seansında bu bütçenin belirli bir yüzdesini kullanın. Kazandığınızda kârınızın bir kısmını kenara ayırın, kaybettiğinizde kayıplarınızı kovalamaktan kaçının. Disiplinli bir banka hesabı yönetimi, uzun vadede oyun keyfinizi korumanızı ve büyük kayıplardan kaçınmanızı sağlar."
+      }
+    ],
+    "conclusion": {
+      "title": "Önemli Hatırlatma",
+      "body": "Hiçbir strateji veya taktik, casino oyunlarında %100 kazanma garantisi vermez. Tüm oyunlar belirli bir kasa avantajına sahiptir. Bu taktikler, eğlencenizi artırmak ve bütçenizi daha verimli kullanmanıza yardımcı olmak için hazırlanmıştır. Sorumlu oyun ilkelerini benimseyin ve kaybetmeyi göze alabileceğiniz miktarlarla oynayın.",
+      "cta": "1win'de Oynamaya Başla"
+    }
+  },
+  "AboutPage": {
+    "meta": {
+      "title": "Hakkımızda - HESAPLAHADİ | 1win Resmi Partneri",
+      "description": "HESAPLAHADİ, 1win'in resmi partneridir. Sitemiz 1win hakkında güncel bilgiler, bonus fırsatları ve rehberler sunmaktadır."
+    },
+    "hero": {
+      "title": "Hakkımızda",
+      "subtitle": "HESAPLAHADİ - 1win Resmi Partneri"
+    },
+    "content": {
+      "title": "Biz Kimiz?",
+      "body": "HESAPLAHADİ, 1win'in resmi partneri olarak hizmet veren bir bilgi ve rehber platformudur. Amacımız, kullanıcılarımıza 1win hakkında en güncel, doğru ve kapsamlı bilgileri sunmaktır. Sitemizde 1win giriş adresleri, bonus fırsatları, oyun rehberleri ve bahis ipuçları gibi birçok faydalı içerik bulabilirsiniz. Tarafsız ve objektif bir bakış açısıyla hazırladığımız içeriklerle kullanıcılarımızın bilinçli kararlar almasına yardımcı olmayı hedefliyoruz."
+    },
+    "values": [
+      {
+        "title": "Güvenilirlik",
+        "desc": "Verdiğimiz tüm bilgilerin doğruluğunu ve güncelliğini titizlikle kontrol ediyoruz."
+      },
+      {
+        "title": "Şeffaflık",
+        "desc": "1win'in resmi partneri olarak tüm bağlantılarımızı ve ilişkilerimizi açıkça belirtiyoruz."
+      },
+      {
+        "title": "Kullanıcı Odaklılık",
+        "desc": "İçeriklerimizi kullanıcılarımızın ihtiyaçlarına göre şekillendiriyor, en faydalı bilgileri sunuyoruz."
+      }
+    ]
+  },
+  "ContactPage": {
+    "meta": {
+      "title": "İletişim - HESAPLAHADİ | 1win Partner İletişim",
+      "description": "HESAPLAHADİ ile iletişime geçin. Öneri, görüş ve sorularınız için bize ulaşın."
+    },
+    "hero": {
+      "title": "İletişim",
+      "subtitle": "Sorularınız, önerileriniz veya görüşleriniz için bize ulaşın"
+    },
+    "info": {
+      "title": "Bize Ulaşın",
+      "desc": "Her türlü soru, öneri ve görüşlerinizi aşağıdaki e-posta adresi üzerinden bize iletebilirsiniz. En kısa sürede size dönüş yapacağız.",
+      "email": "info@hesaplahadi.com"
+    },
+    "disclaimer": {
+      "title": "Önemli Not",
+      "desc": "HESAPLAHADİ olarak doğrudan müşteri hizmetleri veya teknik destek sağlamıyoruz. 1win hesabınızla ilgili teknik sorunlar, para yatırma/çekme işlemleri veya oyunlarla ilgili sorularınız için lütfen doğrudan 1win müşteri hizmetlerine başvurun."
+    }
+  }
+}
