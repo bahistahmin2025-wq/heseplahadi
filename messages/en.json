@@ -8,7 +8,7 @@
     "blog": "Blog"
   },
   "Footer": {
-    "description": "Your trusted source for the latest 1win information, bonus offers, access addresses, and betting tips.",
+    "description": "Your trusted source for the latest bonus offers, free spins, and free bet promotions.",
     "quickLinks": "Quick Links",
     "about": "About Us",
     "contact": "Contact",
@@ -17,87 +17,87 @@
     "bonus": "Bonuses",
     "responsible": "Responsible Gaming",
     "responsibleText": "We encourage you to play responsibly. Be mindful of gambling addiction and only play with amounts you can afford to lose.",
-    "copyright": "All rights reserved. Official partner of 1win."
+    "copyright": "Official partner of 1win."
   },
   "HomePage": {
     "meta": {
-      "title": "1win Turkey - Best Online Betting & Casino Platform | HESAPLAHADİ",
-      "description": "1win Turkey - online betting and casino games. High odds, generous bonuses, and a wide selection of games. Join 1win now!"
+      "title": "1win Turkey - Best Online Betting & Casino Platform",
+      "description": "1win Turkey - online betting and casino games. High odds, generous bonuses, free spins, and a wide selection of games. Join 1win now!"
     },
     "hero": {
-      "title": "Enjoy Betting & Casino with 1win",
-      "subtitle": "Discover Turkey's most popular online betting and casino platform with high odds, generous bonuses, and thousands of games.",
+      "title": "Free Spins & Free Bets at 1win",
+      "subtitle": "Get up to %500 welcome bonus, free spins, and free bet opportunities for new members. Start winning today!",
       "cta": "Join 1win Now",
-      "trustBadge": "Official Partner | Trusted Platform"
+      "trustBadge": "Free Bonus | Free Spins"
     },
     "features": {
-      "title": "Why Choose 1win?",
+      "title": "Bonuses & Offers at 1win",
       "items": [
         {
-          "title": "High Odds",
-          "desc": "Maximize your winnings with the highest odds in the market for sports betting."
+          "title": "%500 Welcome Bonus",
+          "desc": "Get up to %500 bonus on your first four deposits. Use it on sports betting and casino games."
         },
         {
-          "title": "Welcome Bonus",
-          "desc": "Start with an advantage - get up to %500 welcome bonus for new members."
+          "title": "Free Spins",
+          "desc": "Weekly free spins on selected slot games. Win real money without risking your own funds."
         },
         {
-          "title": "Wide Game Selection",
-          "desc": "Thousands of slot games, live casino, poker and more on a single platform."
+          "title": "Free Bets",
+          "desc": "Special free bet promotions. Place risk-free bets and keep your winnings."
         },
         {
-          "title": "Fast Payments",
-          "desc": "Withdraw your winnings quickly. Bank transfer, crypto and more options available."
+          "title": "Weekly Cashback",
+          "desc": "Get up to 10% cashback on your weekly losses. Recover a portion of what you lost."
         },
         {
-          "title": "Mobile Friendly",
-          "desc": "Bet anytime, anywhere with optimized mobile apps for iOS and Android."
+          "title": "Referral Bonus",
+          "desc": "Invite your friends and earn a bonus for each referral. Unlimited referrals, unlimited bonuses."
         },
         {
-          "title": "24/7 Support",
-          "desc": "Our professional support team is available 24 hours a day, 7 days a week."
+          "title": "Tournaments",
+          "desc": "Join casino and sports tournaments for a chance to win big prizes."
         }
       ]
     },
     "howto": {
-      "title": "How to Get Started with 1win?",
+      "title": "How to Claim Your Free Bonus?",
       "step1": {
-        "title": "1. Create an Account",
+        "title": "1. Sign Up",
         "desc": "Visit 1win's official website and fill out the registration form. It only takes a few minutes."
       },
       "step2": {
         "title": "2. Make Your First Deposit",
-        "desc": "Deposit quickly and securely using bank transfer, e-wallets, or cryptocurrency."
+        "desc": "Make your first deposit and instantly qualify for the welcome bonus."
       },
       "step3": {
         "title": "3. Claim Your Bonus",
-        "desc": "Get up to %500 welcome bonus on your first deposit and start using it immediately."
+        "desc": "Get up to %500 welcome bonus and free spins credited to your account immediately."
       },
       "step4": {
-        "title": "4. Start Betting",
-        "desc": "Explore sports betting, casino, live casino and many more games to start winning."
+        "title": "4. Start Winning",
+        "desc": "Use your bonuses on sports betting and casino games. Start winning today!"
       },
       "cta": "Register for Free Now"
     },
     "games": {
-      "title": "Popular Game Categories",
+      "title": "Categories Where You Can Use Your Bonus",
       "sports": "Sports Betting",
-      "sportsDesc": "Bet on football, basketball, tennis and hundreds of sports with high odds.",
+      "sportsDesc": "Use your welcome bonus and free bets on football, basketball, tennis and hundreds of sports.",
       "casino": "Live Casino",
-      "casinoDesc": "Play live roulette, blackjack, baccarat and poker with real dealers.",
+      "casinoDesc": "Play live roulette, blackjack and poker with your bonus funds and win real money.",
       "slots": "Slot Games",
-      "slotsDesc": "Win big prizes with thousands of slot machines and jackpot games."
+      "slotsDesc": "Use your free spins on thousands of slot machines and hit the jackpot."
     },
     "ctaSection": {
-      "title": "Ready to Join 1win?",
-      "desc": "The best odds, widest game selection, and most generous bonuses await you. Sign up for free now!",
-      "button": "Join Now"
+      "title": "Ready to Claim Your Free Bonus?",
+      "desc": "%500 welcome bonus, free spins, and free bet opportunities await you. Sign up for free now!",
+      "button": "Claim My Bonus"
     }
   },
   "LoginPage": {
     "meta": {
-      "title": "1win Login & Registration - 2026 Access Guide | HESAPLAHADİ",
-      "description": "Step-by-step 1win login and registration guide. Sign up for free, claim your welcome bonus, and start betting."
+      "title": "1win Login & Registration - 2026 Access Guide",
+      "description": "Step-by-step 1win login and registration guide. Sign up for free, claim your welcome bonus and free spins, and start betting."
     },
     "hero": {
       "title": "1win Login & Registration Guide",
@@ -143,7 +143,7 @@
   },
   "BonusPage": {
     "meta": {
-      "title": "1win Welcome Bonus - Up to %500 Bonus Offers | HESAPLAHADİ",
+      "title": "1win Welcome Bonus - Up to %500 Bonus Offers",
       "description": "Get up to %500 welcome bonus on your first deposit at 1win. Current promotions, free spins, and more on this page."
     },
     "hero": {
@@ -191,7 +191,7 @@
   },
   "CasinoPage": {
     "meta": {
-      "title": "1win Casino - Best Online Casino Games 2026 | HESAPLAHADİ",
+      "title": "1win Casino - Best Online Casino Games 2026",
       "description": "Experience the ultimate entertainment with 1win casino games. Slots, live casino, roulette, blackjack, poker and thousands of game options."
     },
     "hero": {
@@ -229,7 +229,7 @@
   },
   "SportsPage": {
     "meta": {
-      "title": "1win Sports Betting - Live Betting with High Odds | HESAPLAHADİ",
+      "title": "1win Sports Betting - Live Betting with High Odds",
       "description": "Bet on football, basketball, tennis and hundreds of sports with high odds at 1win. Live betting and pre-match options available."
     },
     "hero": {
@@ -274,7 +274,7 @@
   },
   "BlogIndex": {
     "meta": {
-      "title": "1win Blog - Betting Tips and Strategies | HESAPLAHADİ",
+      "title": "1win Blog - Betting Tips and Strategies",
       "description": "1win blog page. Visit our blog for betting tips, winning tactics, casino strategies, and more."
     },
     "hero": {
@@ -297,7 +297,7 @@
   },
   "BlogTips": {
     "meta": {
-      "title": "Betting Tips and Strategies - 1win Guide | HESAPLAHADİ",
+      "title": "Betting Tips and Strategies - 1win Guide",
       "description": "Professional betting tips and strategies. Everything you need to know from bankroll management to odds analysis for profitable betting."
     },
     "hero": {
@@ -334,7 +334,7 @@
   },
   "BlogTactics": {
     "meta": {
-      "title": "Winning Tactics - Casino and Betting Strategies | HESAPLAHADİ",
+      "title": "Winning Tactics - Casino and Betting Strategies",
       "description": "Winning tactics for casino and betting games. Strategies to increase your chances in roulette, blackjack, slots, and poker."
     },
     "hero": {
@@ -372,15 +372,15 @@
   "AboutPage": {
     "meta": {
       "title": "About Us - HESAPLAHADİ | Official 1win Partner",
-      "description": "HESAPLAHADİ is the official partner of 1win. Our site provides current information, bonus offers, and guides about 1win."
+      "description": "Official partner of 1win. Get the latest bonus offers, free spins, and free bet promotions."
     },
     "hero": {
       "title": "About Us",
-      "subtitle": "HESAPLAHADİ - Official 1win Partner"
+      "subtitle": "Official 1win Partner"
     },
     "content": {
       "title": "Who We Are?",
-      "body": "HESAPLAHADİ is an information and guide platform serving as the official partner of 1win. Our goal is to provide our users with the most current, accurate, and comprehensive information about 1win. On our site, you can find many useful contents such as 1win access addresses, bonus opportunities, game guides, and betting tips. We aim to help our users make informed decisions with content prepared from an impartial and objective perspective."
+      "body": "We are an information and guide platform serving as the official partner of 1win. Our goal is to provide our users with the most current, accurate, and comprehensive information about 1win. On our site, you can find useful content such as 1win access addresses, free spin opportunities, free bet promotions, bonus guides, and betting tips. We aim to help our users make informed decisions with content prepared from an impartial and objective perspective."
     },
     "values": [
       {
@@ -399,8 +399,8 @@
   },
   "ContactPage": {
     "meta": {
-      "title": "Contact - HESAPLAHADİ | 1win Partner Contact",
-      "description": "Contact HESAPLAHADİ. Reach out to us for suggestions, opinions, and questions."
+      "title": "Contact | 1win Contact",
+      "description": "Reach out to us for suggestions, opinions, and questions."
     },
     "hero": {
       "title": "Contact",
@@ -408,12 +408,12 @@
     },
     "info": {
       "title": "Get in Touch",
-      "desc": "You can send your questions, suggestions, and opinions to us via the email address below. We will get back to you as soon as possible.",
-      "email": "info@hesaplahadi.com"
+      "desc": "You can send your questions, suggestions, and opinions to us via the email address below.",
+      "email": "info@1winpartner.com"
     },
     "disclaimer": {
       "title": "Important Note",
-      "desc": "As HESAPLAHADİ, we do not provide direct customer service or technical support. For technical issues with your 1win account, deposit/withdrawal transactions, or game-related questions, please contact 1win customer service directly."
+      "desc": "We do not provide direct customer service or technical support."
     }
   }
 }

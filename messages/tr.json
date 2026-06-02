@@ -8,7 +8,7 @@
     "blog": "Blog"
   },
   "Footer": {
-    "description": "1win hakkında en güncel bilgiler, bonus fırsatları, giriş adresleri ve bahis ipuçları için doğru adres.",
+    "description": "En güncel bonus fırsatları, ücretsiz dönüşler ve bedava bahis kampanyaları için doğru adres.",
     "quickLinks": "Hızlı Bağlantılar",
     "about": "Hakkımızda",
     "contact": "İletişim",
@@ -17,86 +17,86 @@
     "bonus": "Bonuslar",
     "responsible": "Sorumlu Oyun",
     "responsibleText": "Bahis ve casino oyunlarını sorumlu bir şekilde oynamanızı öneririz. Oyun bağımlılığı konusunda dikkatli olun ve kaybetmeyi göze alabileceğiniz miktarlarla oynayın.",
-    "copyright": "Tüm hakları saklıdır. 1win resmi partneridir."
+    "copyright": "1win resmi partneridir."
   },
   "HomePage": {
     "meta": {
-      "title": "1win Türkiye - En İyi Online Bahis ve Casino Platformu | HESAPLAHADİ",
+      "title": "1win Türkiye - En İyi Online Bahis ve Casino Platformu",
       "description": "1win Türkiye'de online bahis ve casino oyunları. Yüksek oranlar, cömert bonuslar ve geniş oyun seçeneğiyle 1win'e hemen katıl!"
     },
     "hero": {
-      "title": "1win ile Bahis ve Casinonun Tadını Çıkarın",
-      "subtitle": "Türkiye'nin en popüler online bahis ve casino platformunda yüksek oranlar, cömert bonuslar ve binlerce oyun sizi bekliyor.",
+      "title": "Ücretsiz Dönüşler ve Bedava Bahisler 1win'de",
+      "subtitle": "Yeni üyelere özel %500'e varan hoşgeldin bonusu, ücretsiz dönüşler ve bedava bahis fırsatlarıyla kazanmaya hemen başlayın.",
       "cta": "Hemen 1win'e Katıl",
-      "trustBadge": "Resmi Partner | Güvenilir Platform"
+      "trustBadge": "Ücretsiz Bonus | Bedava Dönüşler"
     },
     "features": {
-      "title": "Neden 1win?",
+      "title": "1win'de Sizi Bekleyen Fırsatlar",
       "items": [
         {
-          "title": "Yüksek Oranlar",
-          "desc": "Spor bahislerinde piyasanın en yüksek oranları ile kazancınızı maksimize edin."
+          "title": "%500 Hoşgeldin Bonusu",
+          "desc": "İlk dört yatırımınızda %500'e varan bonus kazanın. Bu bonusla hem spor bahislerinde hem de casinoda avantajlı başlayın."
         },
         {
-          "title": "Hoşgeldin Bonusu",
-          "desc": "Yeni üyelere özel %500'e varan hoşgeldin bonusu ile avantajlı başlayın."
+          "title": "Ücretsiz Dönüşler",
+          "desc": "Her hafta belirli slot oyunlarında ücretsiz dönüş fırsatlarını yakalayın. Hiçbir yatırım yapmadan kazanma şansı!"
         },
         {
-          "title": "Geniş Oyun Seçeneği",
-          "desc": "Binlerce slot oyunu, canlı casino, poker ve daha fazlası tek platformda."
+          "title": "Bedava Bahisler",
+          "desc": "Özel kampanyalarla bedava bahis fırsatları. Risksiz bahis yapma şansı ile kazanç elde edin."
         },
         {
-          "title": "Hızlı Ödemeler",
-          "desc": "Kazancınızı en hızlı şekilde çekin. Papara, Havale, kripto para ve daha fazlası."
+          "title": "Haftalık Kayıp Bonusu",
+          "desc": "Haftalık kayıplarınızın %10'una varan kayıp bonusu. Kaybettiklerinizin bir kısmını geri alın."
         },
         {
-          "title": "Mobil Uyumlu",
-          "desc": "iOS ve Android için optimize edilmiş mobil uygulama ile her an her yerde bahis yapın."
+          "title": "Arkadaşını Davet Et Bonusu",
+          "desc": "Arkadaşlarınızı davet edin, her davet için ekstra bonus kazanın. Sınırsız davet, sınırsız bonus."
         },
         {
-          "title": "7/24 Destek",
-          "desc": "Profesyonel müşteri hizmetleri ekibimiz 7 gün 24 saat yanınızda."
+          "title": "Özel Turnuvalar",
+          "desc": "Casino ve spor bahis turnuvalarına katılın, büyük ödüller kazanma şansı yakalayın."
         }
       ]
     },
     "howto": {
-      "title": "1win'e Nasıl Başlarsınız?",
+      "title": "Ücretsiz Bonusunuzu Nasıl Alırsınız?",
       "step1": {
-        "title": "1. Hesap Oluşturun",
+        "title": "1. Kaydolun",
         "desc": "1win'in resmi sitesine gidin ve kayıt formunu doldurun. Sadece birkaç dakika sürer."
       },
       "step2": {
-        "title": "2. İlk Paranızı Yatırın",
-        "desc": "Papara, banka havalesi veya kripto para ile hızlı ve güvenli para yatırma işlemi yapın."
+        "title": "2. İlk Yatırımı Yapın",
+        "desc": "İlk para yatırma işleminizi gerçekleştirin ve anında bonus kazanmaya hak kazanın."
       },
       "step3": {
         "title": "3. Bonusunuzu Alın",
-        "desc": "İlk yatırımınızda %500'e varan hoşgeldin bonusunuzu hemen kullanmaya başlayın."
+        "desc": "%500 hoşgeldin bonusunuz ve ücretsiz dönüşleriniz hesabınıza anında yüklenir."
       },
       "step4": {
-        "title": "4. Bahis Yapmaya Başlayın",
-        "desc": "Spor bahisleri, casino, canlı casino ve daha birçok oyunu keşfedin ve kazanmaya başlayın."
+        "title": "4. Kazanmaya Başlayın",
+        "desc": "Bonuslarınızla spor bahisleri ve casino oyunlarında kazanmaya başlayın."
       },
       "cta": "Hemen Ücretsiz Kaydol"
     },
     "games": {
-      "title": "Popüler Oyun Kategorileri",
+      "title": "Bonuslarınızı Kullanabileceğiniz Kategoriler",
       "sports": "Spor Bahisleri",
-      "sportsDesc": "Futbol, basketbol, tenis ve daha yüzlerce spor dalında yüksek oranlarla bahis yapın.",
+      "sportsDesc": "Hoşgeldin bonusunuzu ve bedava bahislerinizi futbol, basketbol, tenis gibi spor dallarında kullanın.",
       "casino": "Canlı Casino",
-      "casinoDesc": "Gerçek krupiyelerle canlı rulet, blackjack, bakara ve poker oynayın.",
+      "casinoDesc": "Ücretsiz dönüşlerinizle canlı rulet, blackjack ve poker oynayın, gerçek kazançlar elde edin.",
       "slots": "Slot Oyunları",
-      "slotsDesc": "Binlerce slot makinesi ve jackpot oyunu ile büyük ödülleri kazanma şansı yakalayın."
+      "slotsDesc": "Bedava dönüşlerinizi binlerce slot makinesinde kullanarak büyük jackpotları kazanma şansı yakalayın."
     },
     "ctaSection": {
-      "title": "1win'e Katılmaya Hazır mısınız?",
-      "desc": "En iyi oranlar, en geniş oyun seçeneği ve en cömert bonuslar sizi bekliyor. Hemen ücretsiz kaydolun!",
-      "button": "Şimdi Katıl"
+      "title": "Ücretsiz Bonusunuzu Almaya Hazır mısınız?",
+      "desc": "%500 hoşgeldin bonusu, ücretsiz dönüşler ve bedava bahis fırsatları sizi bekliyor. Hemen ücretsiz kaydolun!",
+      "button": "Bonusumu Al"
     }
   },
   "LoginPage": {
     "meta": {
-      "title": "1win Giriş & Kayıt - 2026 Güncel Giriş Adresi | HESAPLAHADİ",
+      "title": "1win Giriş & Kayıt - 2026 Güncel Giriş Adresi",
       "description": "1win giriş ve kayıt işlemleri adım adım anlatım. 1win'e ücretsiz kaydolun, hoşgeldin bonusunuzu alın ve bahis yapmaya başlayın."
     },
     "hero": {
@@ -143,7 +143,7 @@
   },
   "BonusPage": {
     "meta": {
-      "title": "1win Hoşgeldin Bonusu - %500'e Varan Bonus Fırsatları | HESAPLAHADİ",
+      "title": "1win Hoşgeldin Bonusu - %500'e Varan Bonus Fırsatları",
       "description": "1win hoşgeldin bonusu ile ilk yatırımınızda %500'e varan bonus kazanın. Güncel promosyonlar, bedava dönüşler ve daha fazlası bu sayfada."
     },
     "hero": {
@@ -191,7 +191,7 @@
   },
   "CasinoPage": {
     "meta": {
-      "title": "1win Casino - En İyi Online Casino Oyunları 2026 | HESAPLAHADİ",
+      "title": "1win Casino - En İyi Online Casino Oyunları 2026",
       "description": "1win casino oyunları ile eğlenceyi doruklarda yaşayın. Slot, canlı casino, rulet, blackjack, poker ve binlerce oyun seçeneği."
     },
     "hero": {
@@ -229,7 +229,7 @@
   },
   "SportsPage": {
     "meta": {
-      "title": "1win Spor Bahisleri - Yüksek Oranlı Canlı Bahis | HESAPLAHADİ",
+      "title": "1win Spor Bahisleri - Yüksek Oranlı Canlı Bahis",
       "description": "1win spor bahisleri ile futbol, basketbol, tenis ve daha yüzlerce spor dalında yüksek oranlarla bahis yapın. Canlı bahis ve maç öncesi seçenekleri."
     },
     "hero": {
@@ -274,7 +274,7 @@
   },
   "BlogIndex": {
     "meta": {
-      "title": "1win Blog - Bahis İpuçları ve Stratejileri | HESAPLAHADİ",
+      "title": "1win Blog - Bahis İpuçları ve Stratejileri",
       "description": "1win blog sayfası. Bahis ipuçları, kazanma taktikleri, casino stratejileri ve daha fazlası için blogumuzu ziyaret edin."
     },
     "hero": {
@@ -297,7 +297,7 @@
   },
   "BlogTips": {
     "meta": {
-      "title": "Bahis İpuçları ve Stratejiler - 1win Rehber | HESAPLAHADİ",
+      "title": "Bahis İpuçları ve Stratejiler - 1win Rehber",
       "description": "Profesyonel bahis ipuçları ve stratejileri. Bütçe yönetiminden oran analizine, kazançlı bahis için bilmeniz gereken her şey."
     },
     "hero": {
@@ -334,7 +334,7 @@
   },
   "BlogTactics": {
     "meta": {
-      "title": "Kazanma Taktikleri - Casino ve Bahis Taktikleri | HESAPLAHADİ",
+      "title": "Kazanma Taktikleri - Casino ve Bahis Taktikleri",
       "description": "Casino ve bahis oyunlarında kazanma taktikleri. Rulet, blackjack, slot ve poker gibi oyunlarda kazanma şansınızı artıracak stratejiler."
     },
     "hero": {
@@ -372,15 +372,15 @@
   "AboutPage": {
     "meta": {
       "title": "Hakkımızda - HESAPLAHADİ | 1win Resmi Partneri",
-      "description": "HESAPLAHADİ, 1win'in resmi partneridir. Sitemiz 1win hakkında güncel bilgiler, bonus fırsatları ve rehberler sunmaktadır."
+      "description": "1win resmi partneri. En güncel bonus fırsatları, ücretsiz dönüşler ve bedava bahis kampanyaları hakkında bilgiler."
     },
     "hero": {
       "title": "Hakkımızda",
-      "subtitle": "HESAPLAHADİ - 1win Resmi Partneri"
+      "subtitle": "1win Resmi Partneri"
     },
     "content": {
       "title": "Biz Kimiz?",
-      "body": "HESAPLAHADİ, 1win'in resmi partneri olarak hizmet veren bir bilgi ve rehber platformudur. Amacımız, kullanıcılarımıza 1win hakkında en güncel, doğru ve kapsamlı bilgileri sunmaktır. Sitemizde 1win giriş adresleri, bonus fırsatları, oyun rehberleri ve bahis ipuçları gibi birçok faydalı içerik bulabilirsiniz. Tarafsız ve objektif bir bakış açısıyla hazırladığımız içeriklerle kullanıcılarımızın bilinçli kararlar almasına yardımcı olmayı hedefliyoruz."
+      "body": "1win'in resmi partneri olarak hizmet veren bir bilgi ve rehber platformuyuz. Amacımız, kullanıcılarımıza 1win hakkında en güncel, doğru ve kapsamlı bilgileri sunmaktır. Sitemizde 1win giriş adresleri, ücretsiz dönüş fırsatları, bedava bahis kampanyaları, bonus önerileri ve bahis ipuçları gibi birçok faydalı içerik bulabilirsiniz. Tarafsız ve objektif bir bakış açısıyla hazırladığımız içeriklerle kullanıcılarımızın bilinçli kararlar almasına yardımcı olmayı hedefliyoruz."
     },
     "values": [
       {
@@ -399,21 +399,22 @@
   },
   "ContactPage": {
     "meta": {
-      "title": "İletişim - HESAPLAHADİ | 1win Partner İletişim",
-      "description": "HESAPLAHADİ ile iletişime geçin. Öneri, görüş ve sorularınız için bize ulaşın."
+      "title": "\u0130leti\u015fim | 1win \u0130leti\u015fim",
+      "description": "\u00d6neri, g\u00f6r\u00fc\u015f ve sorular\u0131n\u0131z i\u00e7in bize ula\u015f\u0131n."
     },
     "hero": {
-      "title": "İletişim",
-      "subtitle": "Sorularınız, önerileriniz veya görüşleriniz için bize ulaşın"
+      "title": "\u0130leti\u015fim",
+      "subtitle": "Sorular\u0131n\u0131z, \u00f6nerileriniz veya g\u00f6r\u00fc\u015fleriniz i\u00e7in bize ula\u015f\u0131n"
     },
     "info": {
-      "title": "Bize Ulaşın",
-      "desc": "Her türlü soru, öneri ve görüşlerinizi aşağıdaki e-posta adresi üzerinden bize iletebilirsiniz. En kısa sürede size dönüş yapacağız.",
-      "email": "info@hesaplahadi.com"
+      "title": "Bize Ula\u015f\u0131n",
+      "desc": "Sorular\u0131n\u0131z\u0131, \u00f6nerilerinizi ve g\u00f6r\u00fc\u015flerinizi a\u015fa\u011f\u0131daki e-posta adresinden bize iletebilirsiniz.",
+      "email": "info@1winpartner.com"
     },
     "disclaimer": {
-      "title": "Önemli Not",
-      "desc": "HESAPLAHADİ olarak doğrudan müşteri hizmetleri veya teknik destek sağlamıyoruz. 1win hesabınızla ilgili teknik sorunlar, para yatırma/çekme işlemleri veya oyunlarla ilgili sorularınız için lütfen doğrudan 1win müşteri hizmetlerine başvurun."
+      "title": "\u00d6nemli Not",
+      "desc": "Do\u011frudan m\u00fc\u015fteri hizmetleri veya teknik destek sa\u011flam\u0131yoruz."
     }
+  }
   }
 }

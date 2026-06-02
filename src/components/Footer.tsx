@@ -17,7 +17,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-white font-bold text-lg mb-4">HESAPLAHADİ</h3>
+            <h3 className="text-white font-bold text-lg mb-4">1win</h3>
             <p className="text-sm leading-relaxed">{t('description')}</p>
           </div>
           <div>
@@ -40,7 +40,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t border-white/10 mt-8 pt-8 text-center text-sm">
-          <p>&copy; {new Date().getFullYear()} heseplahadi.com. {t('copyright')}</p>
+          <p>&copy; {new Date().getFullYear()} - {t('copyright')}</p>
         </div>
       </div>
     </footer>

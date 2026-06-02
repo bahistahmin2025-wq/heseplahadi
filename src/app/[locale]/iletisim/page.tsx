@@ -31,7 +31,7 @@ export default async function ContactPage({params}: Props) {
             <h2 className="text-2xl md:text-3xl font-bold text-deep-blue mb-6">{t('info.title')}</h2>
             <p className="text-gray-600 leading-relaxed mb-6">{t('info.desc')}</p>
             <a
-              href="mailto:info@hesaplahadi.com"
+              href="mailto:info@1winpartner.com"
               className="text-brand-blue text-xl font-bold hover:underline"
             >
               {t('info.email')}
