@@ -1,7 +1,6 @@
 import {getTranslations} from 'next-intl/server';
 import {setRequestLocale} from 'next-intl/server';
 import AffiliateButton from '@/components/AffiliateButton';
-import {Link} from '@/i18n/navigation';
 
 type Props = {
   params: Promise<{locale: string}>;
@@ -28,8 +27,19 @@ export default async function HomePage({params}: Props) {
     {title: t('games.slots'), desc: t('games.slotsDesc')},
   ];
 
+  const schemaOrg = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: '1win',
+    description: (t as any)('meta.description'),
+    url: 'https://www.hesaplahadi.com',
+    sameAs: ['https://1win.com'],
+  };
+
   return (
     <div>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{__html: JSON.stringify(schemaOrg)}} />
+
       <section className="bg-gradient-to-br from-deep-blue via-deep-blue to-brand-blue text-white py-24">
         <div className="max-w-7xl mx-auto px-4 text-center">
           <span className="text-sm bg-white/10 px-4 py-1 rounded-full">{t('hero.trustBadge')}</span>
